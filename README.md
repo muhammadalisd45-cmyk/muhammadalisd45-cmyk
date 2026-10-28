@@ -1,58 +1,83 @@
-## Hi there 👋
+# Assalam-o-Alaikum! I'm Muhammad Ali 👋
 
-<!--
-**muhammadalisd45-cmyk/muhammadalisd45-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi, I'm Muhammad Ali 👋
+### Aspiring AI Engineer | Python Developer | Generative AI Enthusiast
 
-Aspiring AI Engineer | Python Developer | Generative AI
+I'm passionate about building practical AI-powered applications, exploring Generative AI, and turning ideas into useful software solutions. I enjoy learning new technologies, solving problems, and improving my software development skills through hands-on projects.
 
-I'm building practical AI applications and developing my skills in AI engineering, large language models, and agent-based systems.
+## 🚀 About Me
 
-🚀 About Me
-
-- 🤖 Building AISA — Ali Intelligent Software Assistant
-- 🐍 Working with Python, Ollama, Llama 3.2, and Streamlit
-- 🧠 Exploring Generative AI and AI agents
-- 🤝 Collaborated on Pakistan JusticeNavigator, an AI Legal Assistant
+- 🤖 Exploring Artificial Intelligence, Generative AI, and Large Language Models (LLMs)
+- 🐍 Learning and building with Python and modern web technologies
+- ⚖️ Developing **Pakistan JusticeNavigator**, an AI-powered legal assistance platform
+- 🆘 Working on **AidSphere AI**, an emergency assistance app project
 - 🎓 Completed the ACT AI National AI Training Programme — Cycle 1
-- 💼 Interested in AI engineering, internships, freelancing, and AI products
+- 💡 Interested in AI agents, automation, and real-world AI applications
+- 🌱 Continuously learning, experimenting, and improving my skills
 
-🌟 Featured Project
+## 🎓 Certifications & Training
 
-⚖️ Pakistan JusticeNavigator
+### ACT AI National AI Training Programme — Cycle 1
 
-A team-built AI LegalTech project.
+- **Issued by:** AI SkillBridge
+- **Programme:** Awareness, Competency & Tools Training for Artificial Intelligence
+- **Duration:** 8 June – 29 July 2026
+- **Status:** Successfully Completed
 
-- "Live Demo" (https://ai-legal-assistant-k1gxa1nbf-act-ai10.vercel.app)
-- Status: Ongoing improvements
+**Areas of Study:**
+- 🤖 AI Foundations
+- ✨ Generative AI
+- 🧠 Agentic AI
+- 🛠️ AI Tools & Productivity
+- 💼 Freelancing with AI
 
-🤖 AISA — Ali Intelligent Software Assistant
+🔗 [Verify My Certificate](https://actai.aiskillbridge.pk/v/79YVK5G9A8GNJWPN)
 
-My personal AI assistant project.
+## 🛠️ Technologies & Tools
 
-- Python, Ollama, Llama 3.2, and Streamlit
-- Agent-based architecture with RefundAgent
-- Status: In development
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js
+- **Backend:** FastAPI
+- **Database:** Supabase, PostgreSQL
+- **AI:** Generative AI, LLMs, AI-powered applications
+- **Tools:** Git, GitHub, VS Code
 
-🎓 Certification
+## 🌟 Featured Projects
 
-ACT AI National AI Training Programme — Cycle 1
+### ⚖️ Pakistan JusticeNavigator
 
-- Issuer: AI SkillBridge
-- Completed: 29 July 2026
-- "Verify Certificate" (https://actai.aiskillbridge.pk/v/79YVK5G9A8GNJWPN)
+An AI-powered legal assistance platform designed to help users organize their legal concerns and explore possible next steps.
 
-🎯 My Goal
+🔗 [Explore the Live Demo](https://ai-legal-assistant-k1gxa1nbf-act-ai10.vercel.app/)
 
-To build reliable AI applications, contribute to software projects, and develop practical AI solutions for businesses and clients.
-Here are some ideas to get you started:
+### 🆘 AidSphere AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An emergency assistance app project focused on helping users access emergency information and healthcare resources.
+
+🔗 [View the GitHub Repository](https://github.com/muhammadalisd45-cmyk/AidSphere-AI-App)
+
+## 🎯 Current Goals
+
+- Build reliable and user-friendly AI applications
+- Strengthen my Python, AI engineering, and software development skills
+- Improve my knowledge of testing, deployment, and scalable application design
+- Explore AI agents and practical automation
+- Contribute to meaningful projects and collaborate with other developers
+
+## 🤝 Let's Connect
+
+I'm open to learning opportunities, AI projects, internships, and collaborations with people who enjoy building useful technology.
+
+---
+
+**Build. Learn. Experiment. Improve.** 🚀
+🆘 AidSphere AI
+An emergency assistance app project focused on helping users access emergency information and healthcare resources.
+
+🔗 View on GitHub
+🎯 Current Goals
+- Build reliable and user-friendly AI applications
+- Strengthen my Python, AI engineering, and software development skills
+- Learn more about testing, deployment, and scalable application design
+- Contribute to meaningful projects and collaborate with other developers
+🤝 Let's Connect
+I'm open to learning opportunities, AI projects, internships, and collaborations with people who enjoy building useful technology.
